@@ -1,0 +1,37 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 60px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+p {
+  color: yellow;
+  width: 1270px;
+  
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+h2 {
+  color: green;
+  width: 500px;
+  float: right;
+  font-size: 40px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left; 
+}
+h4 {
+  color: green;
+  width: 1270px;
+  
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+img {
+  display: block;
+  
+}
+html {
+  background-color: #000000;
+}
